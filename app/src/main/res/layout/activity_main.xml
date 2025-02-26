@@ -42,7 +42,9 @@ android:padding="16dp">
     android:layout_height="wrap_content"
     android:text="Calcular IMC"
     android:layout_gravity="center_horizontal"
-    android:layout_marginTop="40dp"/>
+    android:layout_marginTop="40dp" />
+    //android:foreground= "@android:color/black"
+
 
 <TextView
     android:id="@+id/resultTextView"
